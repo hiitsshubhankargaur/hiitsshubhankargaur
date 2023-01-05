@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hiitsshubhankargaur
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React (it's a javascript library for building user interfaces)
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in Web Application Security
+- 🌱 I’m currently learning basics of Pentration Testing
 - 📫 How to reach me : hiitsshubhankargaur@gmail.com
 
 <!---
