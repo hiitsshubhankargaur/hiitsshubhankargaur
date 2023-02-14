@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiitsshubhankargaur
-- 👀 I’m interested in Web Application Security
-- 🌱 I’m currently learning basics of Pentration Testing
+- 👀 I’m GDSC Lead at Dr. Rammanohar Lohia Avadh University
+- 🌱 I’m currently learning Web Application Development
 - 📫 How to reach me : hiitsshubhankargaur@gmail.com
 
 <!---
