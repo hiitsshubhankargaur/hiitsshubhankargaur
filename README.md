@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hiitsshubhankargaur
-- 👀 I’m GDSC Lead at Dr. Rammanohar Lohia Avadh University
 - 🌱 I’m currently learning Web Application Development
 - 📫 How to reach me : hiitsshubhankargaur@gmail.com
 
